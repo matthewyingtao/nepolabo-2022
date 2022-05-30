@@ -9,6 +9,7 @@
 	<a href="/polka">Polka</a>
 	<a href="/botan">Botan</a>
 	<a href="/lamy">Lamy</a>
+	<a href="/2021">old page</a>
 </nav>
 <Counter />
 <ExampleLoop />
